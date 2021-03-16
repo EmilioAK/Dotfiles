@@ -1,0 +1,11 @@
+# Removes accented characters from key-repeat
+defaults write -g ApplePressAndHoldEnabled -bool false
+
+#Applications used:
+# Karabiner elements, to remap keys and enable complex movements
+# AltTab to get sane cmd-tab behavior
+# Better-touch tool, to separeate mouse and trackpad behavior + get middle click
+# Amethyst for window management
+# Iterm for dropdown terminal
+
+# Most settings found here: https://apple.stackexchange.com/users/158163/emilioak?tab=following&sort=activity
