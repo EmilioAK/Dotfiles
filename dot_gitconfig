@@ -1,0 +1,5 @@
+[user]
+	name = EmilioAK
+	email = emilio.alvarez96@gmail.com
+[core]
+	excludesFile = .gitignore_global
